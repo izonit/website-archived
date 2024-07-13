@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap');
+
+#section1 {
+    /* background-color: #000000; */
+    background-image: url(../assets/img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-size: 50%;
+}
+
+#section2, #section3 {
+    background-color: #000000;
+}
+
+#title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 100px;
+    background-image: url(../assets/img/title-bg.jpg);
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#title2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    color: white;
+}
+
+#subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    width: 100%;
+    
+    color: white;
+}
+
+li {
+    list-style-type: none;
+}

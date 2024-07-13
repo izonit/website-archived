@@ -1,0 +1,20 @@
+{
+  "name": "izonit.github.io",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "izonit"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://izonit.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    
+  }
+}
