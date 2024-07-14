@@ -1,3 +1,5 @@
 $(document).ready(function() {
-	$('#pagepiling').pagepiling();
+    $('#pagepiling').pagepiling({
+        menu: '#menu'
+    })
 });

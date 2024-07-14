@@ -1,0 +1,17 @@
+{
+  "name": "jquery.exists",
+  "version": "1.0.1",
+  "homepage": "https://github.com/OpenSourceWorkflow/jquery.exists",
+  "authors": [
+    "Markus Falk <mail@markus-falk.com>"
+  ],
+  "description": "jQuery Plugin for checking wether an element exists and if it does run some code",
+  "main": "jquery.exists.js",
+  "license": "MIT",
+  "ignore": [
+    "*.md"
+  ],
+  "dependencies": {
+    "jquery": ">1.7.0"
+  }
+}
